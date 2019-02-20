@@ -1,2 +1,2 @@
 # preSense
-Firmwares de preSense a partir de v2.0
+Firmware de preSense 1.0
